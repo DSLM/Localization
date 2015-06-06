@@ -16,11 +16,11 @@ item.CrimsonFabric.name=扭曲布匹
 item.HelmetVoidFortress.name=虚空要塞兜鍪
 item.ChestplateVoidFortress.name=虚空要塞胸铠
 item.LeggingsVoidFortress.name=虚空要塞护胫
-item.CrimsonPlating.name=血腥之甲
+item.CrimsonPlating.name=血腥甲片
 item.ShadowMetal.name=阴影金属
 item.HardenedDiamond.name=硬化钻石
 item.HardenedShadowMetal.name=硬化阴影金属
-item.ShadowCloth.name=阴影织布
+item.ShadowCloth.name=阴影布匹
 item.ShadowDust.name=阴影粉尘
 item.WarpedShard.name=扭曲碎片
 item.FluxShard.name=Flux 碎片
@@ -38,22 +38,22 @@ item.CrimsonLeaderVoidLegs.name=虚空血腥主教护胫
 //Wand
 item.FocusTaint.name=法杖核心:腐化风暴
 item.FocusEldritch.name=法杖核心:邪术
-item.WarpRod.name=Warpwood Rod
-item.ShadowCap.name=Shadowmetal Cap
-item.Wand.SHADOW.cap=Shadow Embellished
-item.Wand.WARP.rod=Warpwood
-item.WarpStaffCore.name=Warpwood Staff Core
+item.WarpRod.name=扭曲之木杖柄
+item.ShadowCap.name=阴影杖端
+item.Wand.SHADOW.cap=阴影杖端
+item.Wand.WARP.rod=扭曲之木
+item.WarpStaffCore.name=扭曲之木杖芯
 
 //misc
-itemGroup.TaintedMagic=Tainted Magic
+itemGroup.TaintedMagic=腐化魔法
 
 //research
-tc.research_category.TM=Tainted Magic
+tc.research_category.TM=腐化魔法
 
 //TAINTEDMAGIC
-tm.name.TAINTEDMAGIC=Evil Magic
+tm.name.TAINTEDMAGIC=邪恶魔法
 
-tm.tag.TAINTEDMAGIC=Is this a good idea?
+tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
 tm.text.TAINTEDMAGIC.1=On your adventures through the world you came across a a ripped page from another thaumaturge's thaumonomicon (see right). From what you could decipher, it speaks of putting the evil magics to use. The idea intrigues you, but it seems very risky. Taint, flux, and warp are all somewhat dangerous... But only the weak would be afraid to adventure into the realm of the unknown! You are sure there are countless uses to be discovered from warp and flux. The page is still unclear, and in scribbles, but one day, you will master the art of evil magic. One day!
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
@@ -73,21 +73,21 @@ tm.tag.CAP_SHADOW=Shikamaru...?
 tm.text.CAP_SHADOW.1=With the discovery of voidmetal wandcaps you wondered, what if you could improve the performance of the void caps even further? You tested this theory by infusing the caps with voidmetal, and some other magical objects, as well as the power of a nether star, and it proved §lvery§r sucessful.<BR>The Shadowmetal Caps seem to be extremely efficient at channeling vis, and will grant a heavy discount of 35% for all primal aspects.
 
 //ROD_WARP
-tm.name.ROD_WARP=Warpwood Wand Rod
+tm.name.ROD_WARP=扭曲之木杖柄
 
 tm.tag.ROD_WARP=Probably made by Orochimaru.
 
-tm.text.ROD_WARP.1=Your discovery of Warpwood left you wondering if you could make a wand from this magical wood. After many failed attempts, it came to you, you will need something to stabalize the core. It seems the reconstructive properties of voidmetal did just that, and more... The reconstructive properties of the voidmetal combined with the shadowmetal seem to fester off your warp, and convert it into vis. The more warp you have, the faster the wand will auto-recharge.<BR>This wand core holds 250 of every primal vis, and when combined with the Shadowmetal Caps, this wand will boast quite the discount.<BR>Say goodbye to your vis problems.
+tm.text.ROD_WARP.1=Your discovery of 扭曲之木left you wondering if you could make a wand from this magical wood. After many failed attempts, it came to you, you will need something to stabalize the core. It seems the reconstructive properties of voidmetal did just that, and more... The reconstructive properties of the voidmetal combined with the shadowmetal seem to fester off your warp, and convert it into vis. The more warp you have, the faster the wand will auto-recharge.<BR>This wand core holds 250 of every primal vis, and when combined with the Shadowmetal Caps, this wand will boast quite the discount.<BR>Say goodbye to your vis problems.
 
 //ROD_WARP_staff
-tm.name.ROD_WARP_staff=Warpwood Staff Core
+tm.name.ROD_WARP_staff=扭曲之木杖芯
 
 tm.tag.ROD_WARP_staff=I feel like gandalf.
 
 tm.text.ROD_WARP_staff.1=After seeing the wonders of wands made from Warpwood, you just had to try and make a staff. Just like with most of the other staves, attaching a primal charm to 2 rods seems to do the trick.<BR>The same auto recharging abilities seem to apply as well, and on top of all of that this staff core offers a huge amount of storage - 500 primal vis, that is.<BR>Storing vis in voidspace won't cause any problems... Right?
 
 //EVILSHARDS
-tm.name.EVILSHARDS=Evil Shards
+tm.name.EVILSHARDS=邪恶碎片
 
 tm.tag.EVILSHARDS=Congealed evil
 
@@ -96,7 +96,7 @@ tm.text.EVILSHARDS.1=Using the aspects in a balanced shard, and infusing them wi
 //WARPEDESS
 tm.name.WARPEDESS=扭曲Essentials
 
-tm.tag.WARPEDESS=Dark as my soul...
+tm.tag.WARPEDESS=如我的灵魂般黑暗……
 
 tm.text.WARPEDESS.1=From studying Tainted Magic you have found need for some simple materials made from warp, flux, and shadowmetal. These materials should be useful for many tools, armor pieces, and devices.<LINE>Over the next couple pages you have written the recipes for:<BR>- Warpwood<BR>- Shadow Gems<BR>- Shadow Dust<BR>- Shadow Cloth
 

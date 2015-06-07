@@ -21,7 +21,7 @@ item.ShadowMetal.name=阴影锭
 item.HardenedDiamond.name=硬化钻石
 item.HardenedShadowMetal.name=硬化阴影锭
 item.ShadowCloth.name=阴影布匹
-item.ShadowDust.name=阴影粉尘
+item.ShadowDust.name=阴影粉
 item.WarpedShard.name=扭曲碎片
 item.FluxShard.name=咒波碎片
 item.CrimsonVoidHelm.name=虚空血腥邪徒兜帽
@@ -55,29 +55,29 @@ tm.name.TAINTEDMAGIC=邪恶魔法
 
 tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
-tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右图）。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分危险的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶魔法。总有一天！
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记(见右图)。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分危险的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶魔法。总有一天！
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 //SHADOWMETAL
-tm.name.SHADOWMETAL=阴影锭
+tm.name.SHADOWMETAL=阴影金属
 
 tm.tag.SHADOWMETAL=古老之物
 
-tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理上来讲，它是黑紫色的。但是谁知道它有什么神秘的属性。这种金属会未来应用在许多设备上——虽然它的冶炼过程十分繁琐。<LINE>你确信阴影锭将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……
+tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理上来讲，它是黑紫色的。但是谁知道它有什么神秘的属性。这种金属会未来应用在许多设备上——虽然它的冶炼过程十分繁琐。<LINE>你确信阴影金属将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……
 
 //CAP_SHADOW
 tm.name.CAP_SHADOW=阴影杖端
 
 tm.tag.CAP_SHADOW=鹿丸……？
 
-tm.text.CAP_SHADOW.1=根据在虚空杖端上的发现，进一步提升虚空杖端会怎么样？你尝试将虚空锭，其他一些神秘物品和下届之星注入杖端，事实证明§l非常§r成功.<BR>阴影杖端似乎能十分有效地节省魔力，对所有魔力都有35%的减免。
+tm.text.CAP_SHADOW.1=根据在虚空杖端上的发现，进一步提升虚空杖端会怎么样？你尝试将虚空锭，一些其他的神秘物品和下届之星注入虚空杖端，事实证明§l非常§r成功.<BR>阴影杖端似乎能十分有效地节省魔力，对所有魔力都有35%的减免。
 
 //ROD_WARP
 tm.name.ROD_WARP=扭曲之木杖柄
 
 tm.tag.ROD_WARP=大概是大蛇丸造的。
 
-tm.text.ROD_WARP.1=Your discovery of 扭曲之木left you wondering if you could make a wand from this magical wood. After many failed attempts, it came to you, you will need something to stabalize the core. It seems the reconstructive properties of voidmetal did just that, and more... The reconstructive properties of the voidmetal combined with the shadowmetal seem to fester off your warp, and convert it into vis. The more warp you have, the faster the wand will auto-recharge.<BR>This wand core holds 250 of every primal vis, and when combined with the Shadowmetal Caps, this wand will boast quite the discount.<BR>Say goodbye to your vis problems.
+tm.text.ROD_WARP.1=你对扭曲之木的发现让你产生了用这种魔法木头制作杖柄的想法。经过了许多次的失败以后，幸运女神终于眷顾了你，现在你需要一些东西来稳定它。看来这就是虚空金属的回复能力，并且……虚空金属的回复能力和阴影金属结合后似乎恶化了你的扭曲症状，并将其转化为魔力。你的扭曲值越高法杖自动充能速度越快。<BR>这种法杖能储存每种魔力各250vis，并且在于阴影杖端结合后，这跟法杖将拥有相当高的魔力减免。<BR>向你魔力不足的问题说再见吧。
 
 //ROD_WARP_staff
 tm.name.ROD_WARP_staff=扭曲之木杖芯
@@ -94,14 +94,14 @@ tm.tag.EVILSHARDS=Congealed evil
 tm.text.EVILSHARDS.1=Using the aspects in a balanced shard, and infusing them with pure evil aspects, such as alienis or vitium; You have discovered a new type of shard. Shards of warp and flux.<LINE>To make these shards, throw a balanced shard into a crubible with specific aspects.<BR>To make a Warped Shard, throw a balanced shard into a heated crucible with Alienis.<BR>To make a Flux Shard, throw a balanced shard into a heated crucible with Vitium.
 
 //WARPEDESS
-tm.name.WARPEDESS=扭曲Essentials
+tm.name.WARPEDESS=扭曲精华
 
 tm.tag.WARPEDESS=如我的灵魂般黑暗……
 
 tm.text.WARPEDESS.1=From studying Tainted Magic you have found need for some simple materials made from warp, flux, and shadowmetal. These materials should be useful for many tools, armor pieces, and devices.<LINE>Over the next couple pages you have written the recipes for:<BR>- Warpwood<BR>- Shadow Gems<BR>- Shadow Dust<BR>- Shadow Cloth
 
 //CRIMSONROBES
-tm.name.CRIMSONROBES=血腥Seamstry
+tm.name.CRIMSONROBES=血腥工艺
 
 tm.tag.CRIMSONROBES=Not avaliable at Aeropostale
 

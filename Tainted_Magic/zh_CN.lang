@@ -23,7 +23,7 @@ item.HardenedShadowMetal.name=硬化阴影锭
 item.ShadowCloth.name=阴影布匹
 item.ShadowDust.name=阴影粉尘
 item.WarpedShard.name=扭曲碎片
-item.FluxShard.name=Flux 碎片
+item.FluxShard.name=咒波碎片
 item.CrimsonVoidHelm.name=虚空血腥邪徒兜帽
 item.CrimsonVoidChest.name=虚空血腥邪徒法袍
 item.CrimsonVoidLegs.name=虚空血腥邪徒护腿
@@ -55,7 +55,7 @@ tm.name.TAINTEDMAGIC=邪恶魔法
 
 tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
-tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右边）。根据你解读的部分，这些笔记讲述了如何使用邪恶魔法。The idea intrigues you, but it seems very risky. Taint, flux, and warp are all somewhat dangerous... But only the weak would be afraid to adventure into the realm of the unknown! You are sure there are countless uses to be discovered from warp and flux. The page is still unclear, and in scribbles, but one day, you will master the art of evil magic. One day!
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右边）。根据你解读的部分，这些笔记讲述了如何使用一种邪恶魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分危险的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶魔法。总有一天！
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 //SHADOWMETAL
@@ -63,7 +63,7 @@ tm.name.SHADOWMETAL=阴影锭
 
 tm.tag.SHADOWMETAL=古老之物
 
-tm.text.SHADOWMETAL.1=While mining, you have came across a rather interesting ore. Physically, it is a blackish purple in color. But who knows what mysterious properties it could posess. This metal should prove usefull for many devices in the future - although, the smelting process is quite tedious.<LINE>You are sure there will be lots of future uses for Shadowmetal... But you think you will need to obtain more warp first, maybe the eldritch can give you more information... But who knows...
+tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。Physically, it is a blackish purple in color. But who knows what mysterious properties it could posess. This metal should prove usefull for many devices in the future - although, the smelting process is quite tedious.<LINE>You are sure there will be lots of future uses for Shadowmetal... But you think you will need to obtain more warp first, maybe the eldritch can give you more information... But who knows...
 
 //CAP_SHADOW
 tm.name.CAP_SHADOW=阴影杖端
@@ -82,7 +82,7 @@ tm.text.ROD_WARP.1=Your discovery of 扭曲之木left you wondering if you could
 //ROD_WARP_staff
 tm.name.ROD_WARP_staff=扭曲之木杖芯
 
-tm.tag.ROD_WARP_staff=我心如同甘道夫。
+tm.tag.ROD_WARP_staff=我现在的心心情跟甘道夫一样。
 
 tm.text.ROD_WARP_staff.1=After seeing the wonders of wands made from Warpwood, you just had to try and make a staff. Just like with most of the other staves, attaching a primal charm to 2 rods seems to do the trick.<BR>The same auto recharging abilities seem to apply as well, and on top of all of that this staff core offers a huge amount of storage - 500 primal vis, that is.<BR>Storing vis in voidspace won't cause any problems... Right?
 
@@ -101,7 +101,7 @@ tm.tag.WARPEDESS=如我的灵魂般黑暗……
 tm.text.WARPEDESS.1=From studying Tainted Magic you have found need for some simple materials made from warp, flux, and shadowmetal. These materials should be useful for many tools, armor pieces, and devices.<LINE>Over the next couple pages you have written the recipes for:<BR>- Warpwood<BR>- Shadow Gems<BR>- Shadow Dust<BR>- Shadow Cloth
 
 //CRIMSONROBES
-tm.name.CRIMSONROBES=Crimson Seamstry
+tm.name.CRIMSONROBES=血腥Seamstry
 
 tm.tag.CRIMSONROBES=Not avaliable at Aeropostale
 

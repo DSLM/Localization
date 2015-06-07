@@ -55,7 +55,7 @@ tm.name.TAINTEDMAGIC=邪恶魔法
 
 tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
-tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右边）。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分危险的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶魔法。总有一天！
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右图）。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分危险的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶魔法。总有一天！
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 //SHADOWMETAL
@@ -63,14 +63,14 @@ tm.name.SHADOWMETAL=阴影锭
 
 tm.tag.SHADOWMETAL=古老之物
 
-tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。Physically, it is a blackish purple in color. But who knows what mysterious properties it could posess. This metal should prove usefull for many devices in the future - although, the smelting process is quite tedious.<LINE>You are sure there will be lots of future uses for Shadowmetal... But you think you will need to obtain more warp first, maybe the eldritch can give you more information... But who knows...
+tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理上来讲，它是黑紫色的。但是谁知道它有什么神秘的属性。这种金属会未来应用在许多设备上——虽然它的冶炼过程十分繁琐。<LINE>你确信阴影锭将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……
 
 //CAP_SHADOW
 tm.name.CAP_SHADOW=阴影杖端
 
 tm.tag.CAP_SHADOW=鹿丸……？
 
-tm.text.CAP_SHADOW.1=With the discovery of voidmetal wandcaps you wondered, what if you could improve the performance of the void caps even further? You tested this theory by infusing the caps with voidmetal, and some other magical objects, as well as the power of a nether star, and it proved §lvery§r sucessful.<BR>The Shadowmetal Caps seem to be extremely efficient at channeling vis, and will grant a heavy discount of 35% for all primal aspects.
+tm.text.CAP_SHADOW.1=根据在虚空杖端上的发现，进一步提升虚空杖端会怎么样？你尝试将虚空锭，其他一些神秘物品和下届之星注入杖端，事实证明§l非常§r成功.<BR>阴影杖端似乎能十分有效地节省魔力，对所有魔力都有35%的减免。
 
 //ROD_WARP
 tm.name.ROD_WARP=扭曲之木杖柄
@@ -130,17 +130,17 @@ tm.text.ELDRITCHFOCUS.1=When venturing through the world, you have came across a
 tm.text.ELDRITCHFOCUS.2=As the eldritch sits on his dark throne in the outerlands; You say HA to him. Because one day you will kill him with his own magic.
 
 //KNIGHTROBES
-tm.name.KNIGHTROBES=血腥套装
+tm.name.KNIGHTROBES=血腥邪徒套装
 tm.tag.KNIGHTROBES=With extra reinforcements.
 tm.text.KNIGHTROBES.1=After discovering the Crimson Cloth, you decided to divise a way to re-create the armor of the Crimson Knights. Using a new invention called Crimson Plating, you were able to reinforce the Crimson Cultist robes to create the armor of the Crimson Knights.<BR>Being able to create this armor yourself should save you a lot of time, seeing as you will no longer have to kill the Knights for their armor.
 
 //VOIDCRIMSON
-tm.name.VOIDCRIMSON=虚空血腥套装
+tm.name.VOIDCRIMSON=虚空血腥邪徒套装
 tm.tag.VOIDCRIMSON=Preserving your clothing.
 tm.text.VOIDCRIMSON.1=After finding your own method to make Crimson Cult armor, there is still one problem.<BR>The armor will break after a short amount of time... Using voidmetal, you have made the Crimson Cult armor auto-repair itself.<BR>It should be noted that this can be applied to any piece of Crimson Cultist robes, or Crimson Knight armor.<BR>By improving their armor, the Crimson Cult have began to respect you greatly. Maybe you will become their leader some day.
 
 //VOIDPRAETOR
-tm.name.VOIDPRAETOR=虚空主教套装
+tm.name.VOIDPRAETOR=虚空血腥主教套装
 tm.tag.VOIDPRAETOR=It feels heavy.
 tm.text.VOIDPRAETOR.1=After discovering the Voidtouched Crimson Armor, you tried to apply this to the Praetor Armor, but it didnt quite work.<BR>The Praetor Armor is so thick and heavy that 4 measly pieces of voidmetal was not enough to make the Praetor Armor auto-repair.<BR>By adding even more voidmetal to the infusion you were able to apply the Voidtouched attribute to the Crimson Praetor Armor as well.
 

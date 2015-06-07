@@ -17,9 +17,9 @@ item.HelmetVoidFortress.name=虚空要塞兜鍪
 item.ChestplateVoidFortress.name=虚空要塞胸铠
 item.LeggingsVoidFortress.name=虚空要塞护胫
 item.CrimsonPlating.name=血腥甲片
-item.ShadowMetal.name=阴影金属
+item.ShadowMetal.name=阴影锭
 item.HardenedDiamond.name=硬化钻石
-item.HardenedShadowMetal.name=硬化阴影金属
+item.HardenedShadowMetal.name=硬化阴影锭
 item.ShadowCloth.name=阴影布匹
 item.ShadowDust.name=阴影粉尘
 item.WarpedShard.name=扭曲碎片
@@ -55,34 +55,34 @@ tm.name.TAINTEDMAGIC=邪恶魔法
 
 tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
-tm.text.TAINTEDMAGIC.1=On your adventures through the world you came across a a ripped page from another thaumaturge's thaumonomicon (see right). From what you could decipher, it speaks of putting the evil magics to use. The idea intrigues you, but it seems very risky. Taint, flux, and warp are all somewhat dangerous... But only the weak would be afraid to adventure into the realm of the unknown! You are sure there are countless uses to be discovered from warp and flux. The page is still unclear, and in scribbles, but one day, you will master the art of evil magic. One day!
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记（见右边）。根据你解读的部分，这些笔记讲述了如何使用邪恶魔法。The idea intrigues you, but it seems very risky. Taint, flux, and warp are all somewhat dangerous... But only the weak would be afraid to adventure into the realm of the unknown! You are sure there are countless uses to be discovered from warp and flux. The page is still unclear, and in scribbles, but one day, you will master the art of evil magic. One day!
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 //SHADOWMETAL
-tm.name.SHADOWMETAL=Shadowmetal
+tm.name.SHADOWMETAL=阴影锭
 
-tm.tag.SHADOWMETAL=An ancient substance
+tm.tag.SHADOWMETAL=古老之物
 
 tm.text.SHADOWMETAL.1=While mining, you have came across a rather interesting ore. Physically, it is a blackish purple in color. But who knows what mysterious properties it could posess. This metal should prove usefull for many devices in the future - although, the smelting process is quite tedious.<LINE>You are sure there will be lots of future uses for Shadowmetal... But you think you will need to obtain more warp first, maybe the eldritch can give you more information... But who knows...
 
 //CAP_SHADOW
-tm.name.CAP_SHADOW=Shadowmetal Wand Caps
+tm.name.CAP_SHADOW=阴影杖端
 
-tm.tag.CAP_SHADOW=Shikamaru...?
+tm.tag.CAP_SHADOW=鹿丸……？
 
 tm.text.CAP_SHADOW.1=With the discovery of voidmetal wandcaps you wondered, what if you could improve the performance of the void caps even further? You tested this theory by infusing the caps with voidmetal, and some other magical objects, as well as the power of a nether star, and it proved §lvery§r sucessful.<BR>The Shadowmetal Caps seem to be extremely efficient at channeling vis, and will grant a heavy discount of 35% for all primal aspects.
 
 //ROD_WARP
 tm.name.ROD_WARP=扭曲之木杖柄
 
-tm.tag.ROD_WARP=Probably made by Orochimaru.
+tm.tag.ROD_WARP=大概是大蛇丸造的。
 
 tm.text.ROD_WARP.1=Your discovery of 扭曲之木left you wondering if you could make a wand from this magical wood. After many failed attempts, it came to you, you will need something to stabalize the core. It seems the reconstructive properties of voidmetal did just that, and more... The reconstructive properties of the voidmetal combined with the shadowmetal seem to fester off your warp, and convert it into vis. The more warp you have, the faster the wand will auto-recharge.<BR>This wand core holds 250 of every primal vis, and when combined with the Shadowmetal Caps, this wand will boast quite the discount.<BR>Say goodbye to your vis problems.
 
 //ROD_WARP_staff
 tm.name.ROD_WARP_staff=扭曲之木杖芯
 
-tm.tag.ROD_WARP_staff=I feel like gandalf.
+tm.tag.ROD_WARP_staff=我心如同甘道夫。
 
 tm.text.ROD_WARP_staff.1=After seeing the wonders of wands made from Warpwood, you just had to try and make a staff. Just like with most of the other staves, attaching a primal charm to 2 rods seems to do the trick.<BR>The same auto recharging abilities seem to apply as well, and on top of all of that this staff core offers a huge amount of storage - 500 primal vis, that is.<BR>Storing vis in voidspace won't cause any problems... Right?
 
@@ -108,7 +108,7 @@ tm.tag.CRIMSONROBES=Not avaliable at Aeropostale
 tm.text.CRIMSONROBES.1=After fighting the Crimson Cult countless times, you have noticed one thing; all of their clothing is made from deep red fabric. You have obtained some of this rich cloth after killing the cultists, and you have realised it is quite simple to make, and it should be quite easy to replicate their robes.<LINE>Using Crimson Fabric (see right) you are able to make all of the robe pieces, their recipes are written on the following pages.
 
 //VOIDFORTRESS
-tm.name.VOIDFORTRESS=虚空Fortress Armor
+tm.name.VOIDFORTRESS=虚空要塞套装
 tm.tag.VOIDFORTRESS=Nothing is getting out.
 tm.text.VOIDFORTRESS.1=This is a simple improvement on the concepts layed down by the discovery of fortress armor. By using Void Metal instead of Thaumium you are not only increasing the effectiveness of the armor, but also it's durability.<BR>Of course some people claim that wearing such a large amount of Void metal is probably not good, but there will always be doubters and they should be ignored. You find the dull ache that settles into your bones as you wear it comforting.<BR>Like normal fortress armor this armor can be enhanced by various different faceplates and modifications. 
 
@@ -130,22 +130,22 @@ tm.text.ELDRITCHFOCUS.1=When venturing through the world, you have came across a
 tm.text.ELDRITCHFOCUS.2=As the eldritch sits on his dark throne in the outerlands; You say HA to him. Because one day you will kill him with his own magic.
 
 //KNIGHTROBES
-tm.name.KNIGHTROBES=Crimson Armor
+tm.name.KNIGHTROBES=血腥套装
 tm.tag.KNIGHTROBES=With extra reinforcements.
 tm.text.KNIGHTROBES.1=After discovering the Crimson Cloth, you decided to divise a way to re-create the armor of the Crimson Knights. Using a new invention called Crimson Plating, you were able to reinforce the Crimson Cultist robes to create the armor of the Crimson Knights.<BR>Being able to create this armor yourself should save you a lot of time, seeing as you will no longer have to kill the Knights for their armor.
 
 //VOIDCRIMSON
-tm.name.VOIDCRIMSON=Voidtouched Crimson Armor
+tm.name.VOIDCRIMSON=虚空血腥套装
 tm.tag.VOIDCRIMSON=Preserving your clothing.
 tm.text.VOIDCRIMSON.1=After finding your own method to make Crimson Cult armor, there is still one problem.<BR>The armor will break after a short amount of time... Using voidmetal, you have made the Crimson Cult armor auto-repair itself.<BR>It should be noted that this can be applied to any piece of Crimson Cultist robes, or Crimson Knight armor.<BR>By improving their armor, the Crimson Cult have began to respect you greatly. Maybe you will become their leader some day.
 
 //VOIDPRAETOR
-tm.name.VOIDPRAETOR=Voidtouched Praetor Armor
+tm.name.VOIDPRAETOR=虚空主教套装
 tm.tag.VOIDPRAETOR=It feels heavy.
 tm.text.VOIDPRAETOR.1=After discovering the Voidtouched Crimson Armor, you tried to apply this to the Praetor Armor, but it didnt quite work.<BR>The Praetor Armor is so thick and heavy that 4 measly pieces of voidmetal was not enough to make the Praetor Armor auto-repair.<BR>By adding even more voidmetal to the infusion you were able to apply the Voidtouched attribute to the Crimson Praetor Armor as well.
 
 //PRAETORARMOR
-tm.name.PRAETORARMOR=Crimson Praetor Armor
+tm.name.PRAETORARMOR=血腥主教套装
 tm.tag.PRAETORARMOR=This should be simple... Not.
 tm.text.PRAETORARMOR.1=Strange whispers have been talking to you more and more latly. They have spoke of the leader of the Crimson Cult... And you hope to encounter him some day. The other Thaumaturges showed you sketches of his armor, and you, being the type of person you are, you decided to construct your own.<BR>You thought it would be easy enough, but aparantly it is not. Using many eldritch objects, layers of plating and cloth, and lots of gold; You have created your own set of Crimson Praetor Armor.<BR>You hope replicating his armor won't make the Crimson Praetor mad... 
 

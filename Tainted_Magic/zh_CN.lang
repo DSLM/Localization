@@ -110,7 +110,7 @@ tm.text.CRIMSONROBES.1=经过与血腥邪徒的多次战斗你注意到了一件
 //VOIDFORTRESS
 tm.name.VOIDFORTRESS=虚空要塞套装
 tm.tag.VOIDFORTRESS=Nothing is getting out.
-tm.text.VOIDFORTRESS.1=This is a simple improvement on the concepts layed down by the discovery of fortress armor. By using Void Metal instead of Thaumium you are not only increasing the effectiveness of the armor, but also it's durability.<BR>Of course some people claim that wearing such a large amount of Void metal is probably not good, but there will always be doubters and they should be ignored. You find the dull ache that settles into your bones as you wear it comforting.<BR>Like normal fortress armor this armor can be enhanced by various different faceplates and modifications. 
+tm.text.VOIDFORTRESS.1=以神秘要塞套装的发现作为基础,你对之做出了一点小小的改进。通过使用虚空锭而非神秘锭作为原材料，你不仅提升了装甲的防护能力，而且也增强了它的耐用性。<BR>Of course some people claim that wearing such a large amount of Void metal is probably not good, but there will always be doubters and they should be ignored. You find the dull ache that settles into your bones as you wear it comforting.<BR>Like normal fortress armor this armor can be enhanced by various different faceplates and modifications. 
 
 //WARPEDGOGGLES
 tm.name.WARPEDGOGGLES=扭曲揭示之护目镜

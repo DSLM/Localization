@@ -94,7 +94,7 @@ tm.tag.EVILSHARDS=凝固的恶
 tm.text.EVILSHARDS.1= 通过将此世之恶——如异域要素(alienis)或污染要素(vitium)——注入平衡碎片的方法，你发现了两种新碎片，扭曲碎片和咒波碎片。<LINE>将平衡碎片扔进拥有某些特殊要素的坩埚即可制作这些碎片。<BR>将平衡碎片扔进拥有异域要素(alienis)的坩埚中获取扭曲碎片。<BR>将平衡碎片扔进拥有污染要素(vitium)的坩埚中获取咒波碎片。
 
 //WARPEDESS
-tm.name.WARPEDESS=扭曲之精华
+tm.name.WARPEDESS=扭曲之物
 
 tm.tag.WARPEDESS=如我的灵魂般黑暗……
 

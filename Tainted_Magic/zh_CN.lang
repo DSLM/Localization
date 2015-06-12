@@ -1,6 +1,6 @@
 //misc
-death.attack.eldritch=%1$s被邪术侵袭而死了
-death.attack.eldritch.player=%1$s在与%2$s战斗时被邪术能量杀死了
+death.attack.eldritch=%1$s因被邪术侵袭而死
+death.attack.eldritch.player=%1$s在与%2$s战斗时被邪术能量毁灭了
 
 //blocks
 tile.OreShadow.name=暗影矿石
@@ -55,7 +55,7 @@ tm.name.TAINTEDMAGIC=邪恶魔法
 
 tm.tag.TAINTEDMAGIC=这真的是个好主意？
 
-tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记(详见右图)。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶的魔法——腐化魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分致命的……但是，只有软弱无能之辈才会害怕探索未知的领域！你确信你能从咒波和扭曲中发现许多新用途。这些笔记依旧潦草不清，但是总有一天，你会掌握这种邪恶的魔法。总有一天！
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记(详见右图)。从你解读的部分可以知道，这些笔记讲述了如何使用一种邪恶的魔法——腐化魔法。这些点子激起了你的兴趣，不过它们看起来有点危险。腐化，咒波和扭曲都是十分致命的……但是，只有软弱无能之辈才会害怕探索未知的领域！你相信你能从咒波和扭曲中发现许多新用途。或许现在这些笔记依旧潦草不清，但是终有一日，你会掌握这种邪恶的魔法。终有一日！
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 //SHADOWMETAL
@@ -110,41 +110,41 @@ tm.text.CRIMSONROBES.1=经过与血腥邪徒的多次战斗你注意到了一件
 //VOIDFORTRESS
 tm.name.VOIDFORTRESS=虚空要塞套装
 tm.tag.VOIDFORTRESS=一切尽在掌控之中。
-tm.text.VOIDFORTRESS.1=以神秘要塞套装的发现作为基础,你对之做出了一点小小的改进。通过使用虚空锭而非神秘锭作为原材料，你不仅提升了装甲的防护能力，而且也增强了它的耐用性。<BR>当然，有的人认为将大量的虚空金属装备在身上或许会有什么不好的影响，但是世界上总有这种唧唧歪歪的阴谋主义者，无需在意。你发觉当你穿上这套衣服时，你全身的骨头都隐隐作痛。<BR>与神秘要塞套装相同，这种装甲也可以被各种手段增强。
+tm.text.VOIDFORTRESS.1=以神秘要塞套装的发现作为基础,你对之做出了一点小小的改进。通过使用虚空锭而非神秘锭作为原材料，你不仅提升了装甲的防护能力，而且也增强了它的耐用性。<BR>当然，有的人认为将大量的虚空金属装备在身上或许会有什么不好的影响，但是世界上总有这种唧唧歪歪的阴谋主义者，无需在意。你发觉当你穿上这套衣服时，你全身都隐隐作痛，甚至深入骨髓。<BR>与神秘要塞套装相同，这种装甲也可以被各种手段增强。
 
 //WARPEDGOGGLES
 tm.name.WARPEDGOGGLES=扭曲揭示之护目镜
 tm.tag.WARPEDGOGGLES=写轮眼，解封！
-tm.text.WARPEDGOGGLES.1=将暗影锭注入揭示之护目镜之后，你终于解决了长久以来一直困扰你的问题：你这样的神秘使必须在装甲的特殊功能和保护能力之间做一个艰难的决定。<BR>通过用纯粹的魔法金属来加强你的护目镜，你已经获得了额外的防护能力。但是，这种提升并非无偿的……<BR>一个镜片看起来被扭曲和咒波变得模糊，并导致你有时候会出现一些奇怪的幻象。不过没关系，这玩意还能变得更糟，对吧？
+tm.text.WARPEDGOGGLES.1=将暗影锭注入揭示之护目镜之后，你终于解决了长久以来一直困扰你的问题：你这样的神秘使往往必须在装甲的特殊功能和保护能力之间做一个艰难的决定。<BR>通过用纯粹的魔法金属来加强你的护目镜，你已经获得了额外的防护能力。但是，这种提升并非无偿的……<BR>一个镜片看起来被扭曲和咒波变得模糊，并导致你有时候会出现一些奇怪的幻象。不过没关系，这玩意还能变得更糟，对吧？
 
 //TAINTFOCUS
 tm.name.TAINTFOCUS=法杖核心:腐化风暴
-tm.tag.TAINTFOCUS=Warning: may leave a sticky residue.
+tm.tag.TAINTFOCUS=警告：可能导致粘液残留。
 tm.text.TAINTFOCUS.1=在对腐化之地的研究中，你已经注意到了腐化孢子群十分特殊。你知道你能将这种特殊之处复制到法杖核心上。通过将咒波碎片和腐化粘浆注入法杖核心：岩精之诅咒，你能创造出一种发射腐化气泡的法杖核心。<BR>通过更进一步的注入下界之星中蕴含的破坏能量，你极大地提升了这种核心的效果和射程。<BR>(Continued)
 tm.text.TAINTFOCUS.2=这种核心将在前方区域射出腐化气泡，射程为17格，接触者不仅需要面对腐毒的侵蚀，更需要应对其造成的惊人伤害，你的敌人的尸体亦会被咒波浸入骨髓。<BR>这种法杖核心的缺点是有几率会腐化你所杀死的怪物，使其外表更令人作呕。另外，当你杀死怪物时也可能会生成神秘史莱姆,然而你并不知道原因。
 
 //ELDRITCHFOCUS
 tm.name.ELDRITCHFOCUS=法杖核心:邪术
-tm.tag.ELDRITCHFOCUS=Engulfed in the shadows.
-tm.text.ELDRITCHFOCUS.1=When venturing through the world, you have came across a few eldritch altars... You are very intrigued by the eldritch guardians that spawn there, and espically the orbs of dark matter that they hurl at you. After seeing this, you were bound to try and replicate it. By infusing many eldritch objects together, you have managed to summon these orbs of dark matter and blast them at your enemies.<BR>This focus has an extremly fast cooldown, allowing you to rapidly shoot these orbs, it will also inflict 10 hearts of damage, and will kill entities in an area of 3 blocks from where it hits. (Continued)
-tm.text.ELDRITCHFOCUS.2=As the eldritch sits on his dark throne in the outerlands; You say HA to him. Because one day you will kill him with his own magic.
+tm.tag.ELDRITCHFOCUS=暗影之噬。
+tm.text.ELDRITCHFOCUS.1=在进行跨世界旅行的过程中，你已经进入过数个邪术祭坛……你对那里诞生的邪术守卫非常好奇，特别是它们投向你的邪术球。在看见它们的攻击方式之后，你尝试着去复制它。在将许多邪术物品注入在一起之后，你已经成功地找到了发射邪术球的方法并能用之炸裂你的敌人。<BR>这种核心的冷却速度极快，因而让你得以快速的射出邪术球，它将对击中区域三格范围内的所有敌人造成10颗心的伤害。<BR>(Continued)
+tm.text.ELDRITCHFOCUS.2=邪术的君王端坐于祂那统领外域的暗之王座，汝却无惧其威名——只因终有一日，汝将以其法泯其形。
 
 //KNIGHTROBES
-tm.name.KNIGHTROBES=血腥邪徒套装
-tm.tag.KNIGHTROBES=With extra reinforcements.
-tm.text.KNIGHTROBES.1=After discovering the Crimson Cloth, you decided to divise a way to re-create the armor of the Crimson Knights. Using a new invention called Crimson Plating, you were able to reinforce the Crimson Cultist robes to create the armor of the Crimson Knights.<BR>Being able to create this armor yourself should save you a lot of time, seeing as you will no longer have to kill the Knights for their armor.
+tm.name.KNIGHTROBES=血腥骑士套装
+tm.tag.KNIGHTROBES=额外强化。
+tm.text.KNIGHTROBES.1=在发现血腥布匹之后，你决定找个办法再现血腥邪徒套装。使用你刚发明不久的血腥甲片，你能将血腥邪徒套装升级为血腥骑士套装。<BR>自己制作这种装甲的能力将节省许多本会用来击杀血腥骑士获取全套这种铠甲的时间。
 
 //VOIDCRIMSON
-tm.name.VOIDCRIMSON=虚空血腥邪徒套装
-tm.tag.VOIDCRIMSON=Preserving your clothing.
-tm.text.VOIDCRIMSON.1=After finding your own method to make Crimson Cult armor, there is still one problem.<BR>The armor will break after a short amount of time... Using voidmetal, you have made the Crimson Cult armor auto-repair itself.<BR>It should be noted that this can be applied to any piece of Crimson Cultist robes, or Crimson Knight armor.<BR>By improving their armor, the Crimson Cult have began to respect you greatly. Maybe you will become their leader some day.
+tm.name.VOIDCRIMSON=虚空血腥套装
+tm.tag.VOIDCRIMSON=保护你的衣服。
+tm.text.VOIDCRIMSON.1=在你找到了自己的方法制作血腥骑士套装之后，仍旧有一个问题摆在你面前。<BR>这套装甲很快就会损坏……给装甲加入虚空金属，你的血腥骑士套装就能自动修复。<BR>值得一提的是，这种提升对血腥邪徒套装和血腥骑士套装都有效。<BR>在提高他们的装甲之后，血腥邪徒们对你的印象大为改观。或许有一天你将成为他们的领袖。
 
 //VOIDPRAETOR
 tm.name.VOIDPRAETOR=虚空血腥主教套装
-tm.tag.VOIDPRAETOR=It feels heavy.
-tm.text.VOIDPRAETOR.1=After discovering the Voidtouched Crimson Armor, you tried to apply this to the Praetor Armor, but it didnt quite work.<BR>The Praetor Armor is so thick and heavy that 4 measly pieces of voidmetal was not enough to make the Praetor Armor auto-repair.<BR>By adding even more voidmetal to the infusion you were able to apply the Voidtouched attribute to the Crimson Praetor Armor as well.
+tm.tag.VOIDPRAETOR=这玩意儿真重。
+tm.text.VOIDPRAETOR.1=再发明了虚空血腥套装之后，你也试着将其技术应用在血腥主教套装上，然而它并不怎么好用。<BR>在厚重的血腥主教套装面前区区4块虚空锭太过微不足道。<BR>通过注入更多的虚空锭的方法可以让血腥主教套装也拥有虚空金属自动恢复的属性。
 
 //PRAETORARMOR
 tm.name.PRAETORARMOR=血腥主教套装
 tm.tag.PRAETORARMOR=这应该很简单……不…
-tm.text.PRAETORARMOR.1=Strange whispers have been talking to you more and more latly. They have spoke of the leader of the Crimson Cult... And you hope to encounter him some day. The other Thaumaturges showed you sketches of his armor, and you, being the type of person you are, you decided to construct your own.<BR>You thought it would be easy enough, but aparantly it is not. Using many eldritch objects, layers of plating and cloth, and lots of gold; You have created your own set of Crimson Praetor Armor.<BR>You hope replicating his armor won't make the Crimson Praetor mad... 
+tm.text.PRAETORARMOR.1=最近，有不少关于你的奇怪流言在传播着。他们还谈到了血腥主教……你希望有一天可以找到祂。其他的神秘使向你展示了他的装备设计草图，你决定自己动手做一件。<BR>你觉得这很简单，然而事实并非如此。你用了许多邪术物品，甲片和布匹制造了一套属于你自己的血腥主教套装。<BR>但愿血腥主教听到这个消息之后不会心脏病发作……

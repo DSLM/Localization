@@ -72,19 +72,20 @@ tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:2
 
 tm.name.SHADOWMETAL=暗影金属
 tm.tag.SHADOWMETAL=古老之物
-tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理性质上来讲，它是黑紫色的，并且还有点沉，不过谁知道它拥有怎样的力量……这种金属应该会在未来应用在许多物品上——虽然它的冶炼过程十分繁琐。<BR>你确信暗影金属将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……<BR>§o过去残存之物……自身创造之盈余……一切一切之遗留下……暗影金属之铸就……
+tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理性质上来讲，它是黑紫色的，并且还有点沉，不过谁知道它拥有怎样的力量……这种金属应该会在未来应用在许多物品上——虽然它的冶炼过程十分繁琐。<BR>你确信暗影金属将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……<BR>§o过去残存之伪物……自身创造之盈余……一切一切之存留……暗影金属之铸就……
 
 #CAP_SHADOW
 
-tm.name.CAP_SHADOW=Shadowmetal Wand Caps
-tm.tag.CAP_SHADOW=Shikamaru...?
-tm.text.CAP_SHADOW.1=With the discovery of void metal wandcaps you wondered if you could improve the performance of the void caps even further. You tested this theory by infusing the caps with more void metal, and some shadowmetal, as well as the primal aspects of a primordial pearl, and it proved very sucessful.<BR>The Shadowmetal Caps seem to be extremely efficient at channeling vis, and will grant a heavy discount of 30% for all primal aspects.<BR>The Primordial Pearl is not consumed during the crafting process.
+tm.name.CAP_SHADOW=暗影杖端
+tm.tag.CAP_SHADOW=鹿丸……？
+tm.text.CAP_SHADOW.1=根据你在虚空杖端上的探索心得，进一步提升这种杖端会怎么样？你尝试将更多的虚空锭，一些暗影锭和一颗原始珍珠注入虚空杖端，事实证明你的想法非常成功。<BR>暗影杖端似乎能十分有效地节省魔力，对所有魔力都有30%的减免。原始珍珠不会在合成中被消耗。
+
 
 #ROD_WARP
 
-tm.name.ROD_WARP=Warpwood Wand Rod
-tm.tag.ROD_WARP=Primordial energy evolved
-tm.text.ROD_WARP.1=Your discovery of warpwood left you wondering if this wonderful wood could be crafted into a wand.<BR>Since the wood is made from warp, you think it's only logical to use a zombie brain as a place to store the insanity.<BR>Using the power of the primordial pearl (not consumed during crafting), and void metal you seem to have opened a rift to the void, storing huge amounts of vis.<BR>The wand seems to also self recharge, but you don't understand why. The more warp you amass, the faster it recharges... (Continued)
+m.name.ROD_WARP=扭曲之木杖柄
+tm.tag.ROD_WARP=原始能量演化
+tm.text.ROD_WARP.1=扭曲之木的发现让你产生了用这种魔法木头制作杖柄的想法。<BR>由于木材是从扭曲之力中诞生的，你认为使用僵尸大脑存储那些令人疯狂的扭曲之物是唯一可行的方法。<BR>在加入原始珍珠(合成中不消耗)的能量与虚空金属之后，其能量似乎打开了一道虚空间隙，使得法杖可以储存大量的魔力。<BR>这根法杖似乎也能自动恢复魔力，虽然你并不知道其原理。你的扭曲值越高，则法杖自动充能速度越快……(Continued)
 tm.text.ROD_WARP.2=§oYour wand has been whispering strangly to you. As your insane mind grows stronger, the wand seems to whisper to you more and more. Calling you in... Echos of the void...<BR>As the very cells of your brain become almost completely corrupted by your warp; almost to match that of the wand itself, a long crack started down the side of the wand, breaking open a tiny slit to the void...<BR>The power could not have been more incredible. The wand keeps pushing more and more power from the void - more than you can possibly believe.<BR>You fear the consequences, but this power surging through your veins... It's too great to dismiss.
 
 #ROD_WARP_staff

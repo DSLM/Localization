@@ -1,78 +1,78 @@
 #=========MISC=========================
 
-death.attack.eldritch=%1$s was overtaken by The Eldritch
-death.attack.eldritch.player=%1$s was overtaken by %2$s using dark matter.
-itemGroup.TaintedMagic=Tainted Magic
-text.1=§5You are suddenly filled with complete and utter clarity...
+death.attack.eldritch=%1$s因邪术能量侵袭而死
+death.attack.eldritch.player=%1$s被%2$s用邪术球杀死了
+itemGroup.TaintedMagic=污秽魔法
+text.1=§5你突然感觉全身为之一清……
 
 #=========BLOCK NAMES==================
 
-tile.OreShadow.name=Shadow Ore
-tile.WarpWood.name=Warpwood
-tile.WarpSap.name=Warped Sapling
-tile.WarpLeaves.name=Warped Leaves
+tile.OreShadow.name=暗影矿石
+tile.WarpWood.name=扭曲之木
+tile.WarpSap.name=扭曲树苗
+tile.WarpLeaves.name=扭曲树叶
 
 #=========ITEM NAMES===================
 
 item.EldritchShard.name=Shard of Creation
 item.VoidEssence.name=Void Essence
-item.BootsVoidwalker.name=Boots of the Voidwalker
-item.WarpedGoggles.name=Warped Goggles of Revealing
-item.WarpedPraetorArmorHelm.name=Warped Praetor Helm
-item.WarpedPraetorArmorChest.name=Warped Praetor Chestplate
-item.WarpedPraetorArmorLegs.name=Warped Praetor Greaves
-item.ShadowGem.name=Shadow Gem
-item.CrimsonFabric.name=Crimson Fabric
-item.HelmetVoidFortress.name=Void Fortress Helm
-item.ChestplateVoidFortress.name=Void Fortress Cuirass
-item.LeggingsVoidFortress.name=Void Fortress Thigh Guards
-item.CrimsonPlating.name=Crimson Plating
-item.ShadowMetal.name=Shadowmetal
-item.HardenedDiamond.name=Hardened Diamond
-item.HardenedShadowMetal.name=Hardened Shadowmetal
-item.ShadowCloth.name=Shadow Cloth
-item.ShadowDust.name=Shadow Dust
-item.WarpedShard.name=Warped Shard
-item.FluxShard.name=Flux Shard
-item.CrimsonVoidHelm.name=Crimson Cult Hood
-item.CrimsonVoidChest.name=Crimson Cult Robe
-item.CrimsonVoidLegs.name=Crimson Cult Leggings
-item.CrimsonVoidBoots.name=Crimson Cult Boots
-item.CrimsonPlateVoidHelm.name=Crimson Cult Helm
-item.CrimsonPlateVoidChest.name=Crimson Cult Chestplate
-item.CrimsonPlateVoidLegs.name=Crimson Cult Greaves
-item.CrimsonLeaderVoidHelm.name=Crimson Praetor Helm
-item.CrimsonLeaderVoidChest.name=Crimson Praetor Chestplate
-item.CrimsonLeaderVoidLegs.name=Crimson Praetor Greaves
+item.BootsVoidwalker.name=虚空旅行者之靴
+item.WarpedGoggles.name=扭曲揭示之护目镜
+item.WarpedPraetorArmorHelm.name=扭曲主教头盔
+item.WarpedPraetorArmorChest.name=扭曲主教胸甲
+item.WarpedPraetorArmorLegs.name=扭曲主教护胫
+item.ShadowGem.name=暗影宝石
+item.CrimsonFabric.name=血腥布匹
+item.HelmetVoidFortress.name=虚空要塞兜鍪
+item.ChestplateVoidFortress.name=虚空要塞胸铠
+item.LeggingsVoidFortress.name=虚空要塞护胫
+item.CrimsonPlating.name=血腥甲片
+item.ShadowMetal.name=暗影锭
+item.HardenedDiamond.name=硬化钻石
+item.HardenedShadowMetal.name=硬化暗影锭
+item.ShadowCloth.name=暗影布匹
+item.ShadowDust.name=暗影粉
+item.WarpedShard.name=扭曲碎片
+item.FluxShard.name=咒波碎片
+item.CrimsonVoidHelm.name=虚空血腥邪徒兜帽
+item.CrimsonVoidChest.name=虚空血腥邪徒法袍
+item.CrimsonVoidLegs.name=虚空血腥邪徒护腿
+item.CrimsonVoidBoots.name=虚空血腥邪徒靴子
+item.CrimsonPlateVoidHelm.name=虚空血腥邪徒头盔
+item.CrimsonPlateVoidChest.name=虚空血腥邪徒胸甲
+item.CrimsonPlateVoidLegs.name=虚空血腥邪徒护胫
+item.CrimsonLeaderVoidHelm.name=虚空血腥主教头盔
+item.CrimsonLeaderVoidChest.name=虚空血腥主教胸甲
+item.CrimsonLeaderVoidLegs.name=虚空血腥主教护胫
 
 #===========WAND NAMES===================
 
-item.FocusTaint.name=Wand Focus: Tainted Storm
-item.FocusEldritch.name=Wand Focus: Eldritch
-item.WarpRod.name=Warpwood Rod
-item.ShadowCap.name=Shadowmetal Cap
-item.Wand.SHADOW.cap=Shadow Embellished
-item.Wand.WARP.rod=Warpwood
-item.WarpStaffCore.name=Warpwood Staff Core
+item.FocusTaint.name=法杖核心:腐化风暴
+item.FocusEldritch.name=法杖核心:邪术
+item.WarpRod.name=扭曲之木杖柄
+item.ShadowCap.name=暗影杖端
+item.Wand.SHADOW.cap=暗影杖端
+item.Wand.WARP.rod=扭曲之木
+item.WarpStaffCore.name=扭曲之木杖芯
 
 #===========RESEARCH CATEGORY============
 
-tc.research_category.TM=Tainted Magic
+tc.research_category.TM=污秽魔法
 
 #===========THAUMONOMOCON TEXT===========
 
 #TAINTEDMAGIC
 
-tm.name.TAINTEDMAGIC=Evil Magic
-tm.tag.TAINTEDMAGIC=I'm scared
-tm.text.TAINTEDMAGIC.1=On your travels through the world you came across a ripped page from another thaumaturge's thaumonomicon (see right).<BR>From what you could decipher, it speaks of taking a darker approach on thaumaturgy.<BR>The idea intrigues you, but it seems very dangerous; although only the weak would be afraid to adventure into the unknown!<BR>The page is still quite unclear, and in runic scribbles, but one day, you will decipher this page and master the art of dark magic... One day!
+tm.name.TAINTEDMAGIC=邪恶魔法
+tm.tag.TAINTEDMAGIC=我有点害怕……
+tm.text.TAINTEDMAGIC.1=在你的探索世界旅途中，你偶然发现了另一位神秘使的笔记(详见右图)。<BR>从你解读的部分可以知道，这些笔记讲述了一种暗之魔法力量。<BR>这些点子激起了你的兴趣，不过它们看起来有点危险。但是，只有软弱无能之辈才会害怕探索未知的领域！<BR>或许现在这些笔记依旧潦草不清，但是终有一日，你会破解其中的奥秘并掌握这种魔法……终有一日！
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
 
 #SHADOWMETAL
 
-tm.name.SHADOWMETAL=Shadowmetal
-tm.tag.SHADOWMETAL=An ancient substance
-tm.text.SHADOWMETAL.1=While mining, you have came across a rather interesting substance. Physically, it is blackish purple in color, and quite heavy. But who knows what power it could posess... This metal seems promising and might prove useful for something in the future - although, the purification process is somewhat tedious.<BR>You think you will need to obtain more warp before it will become useable, maybe the Eldritch can give you more information... But who knows...<BR>§oA relic of the past, the sediments of creation... All that was left behind... A metal made from darkness...
+tm.name.SHADOWMETAL=暗影金属
+tm.tag.SHADOWMETAL=古老之物
+tm.text.SHADOWMETAL.1=在挖矿的时候，你发现了一种十分有趣的矿石。从物理性质上来讲，它是黑紫色的，并且还有点沉，不过谁知道它拥有怎样的力量……这种金属应该会在未来应用在许多物品上——虽然它的冶炼过程十分繁琐。<BR>你确信暗影金属将会很有用……但是你觉得你需要先获得更多的扭曲，或许诡异的低语会给你许多信息……谁知道呢……<BR>§o过去残存之物……自身创造之盈余……一切一切之遗留下……暗影金属之铸就……
 
 #CAP_SHADOW
 

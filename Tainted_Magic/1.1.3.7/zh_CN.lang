@@ -182,21 +182,21 @@ tm.text.VOIDWALKERBOOTS.1=你一直在艰难地寻找，寻找着能完善你的
 
 tm.name.CREATIONSHARD=创世碎片
 tm.tag.CREATIONSHARD=力量使人堕落
-tm.text.CREATIONSHARD.1=你终于找到了它......挑战创世神迹的邪术产物。<BR>创世碎片，这种有着巨大能量的碎片将是你终极的魔力来源。创造与毁灭，一切都蕴含于其中。<BR>这碎片或许揭示了万物之始，那你一直在追求的终极答案。<BR>§o 这种碎片——当它躺在你的手上时，清晰之感几个世纪以来首次充斥了你那扭曲的心灵。
+tm.text.CREATIONSHARD.1=你终于找到了它......挑战创世神迹的邪术产物。<BR>创世碎片，这种有着巨大能量的碎片将是你终极的魔力来源。创造与毁灭，一切都蕴含于其中。<BR>这碎片或许揭示了万物之始，那你一直在追求的终极答案。<BR>§o 这种碎片——当它躺在你的手上时，清晰之感首次充斥了你那几个世纪以来一直扭曲着的心灵。
 
 #CREATION
 
 tm.name.CREATION=创世
 tm.tag.CREATION=一切很快明了……
-tm.text.CREATION.1=The moment you touched this new shard, a substance forged of power you barely understand, you felt something. You felt as if the entire universe had shifted.<BR>Your body went stiff, and for the first time since you opened the Thaumonomicon, the voices... They §lStopped.§r<BR>You saw through what the voices have always kept hidden. You saw through the lies. Through the insanity. Through the veil between worlds. You saw... §lCreation.§r<BR>Aeons ago, when the world you know was yet to exist, the formation of another universe began.
+tm.text.CREATION.1=在你碰触这个新碎片——一种由你所不了解的能量凝结植物——的瞬间，你感觉到了什么。你觉得好像整个宇宙已经被改变。<BR>你身体僵硬，从你打开魔导手册其，那声音第一次......§l停止。§r<BR>透过那始终隐藏的声音，你看见了什么。你看见了谎言，通过精神失常，通过世界间的屏障。你看到...§l创世。§r<BR>亿万年前，你所熟悉的这个世界尚不存在，另一个宇宙开始形成。
 
-tm.text.CREATION.2=The primal energies, in the form of vis, flowing from beyond reality clashed, combined, and, given time, created.<BR>A blank universe, exploding from nothing, into existence.<BR>The energies which created this world, however, did not leave. They stayed, they twisted, and became a part of this new place, just as water or air are in your world.<BR>If enough time is given to any universe, it will eventually develop life, and this universe was no exception. A race of beings, warped by power and twisted by magic. Every reference to them you've ever read always names them... The Eldritch.
+tm.text.CREATION.2=原始能量，以魔力的形式，流淌在现实之外，冲击，汇合，并给予时间，创造世界。<br>一个空白的宇宙，从一无所有到大爆炸，开始存在。<BR>然而，这创世之能，却并未离去。他们存在，他们扭曲，并成为这个新世界一部分，就像你的世界中的水和空气一样。<BR>如果有足够的时间，任何宇宙都终将诞生生命，而这个宇宙也不例外。这个种族的存在之基，是扭曲的能量和扭曲的魔法。他们的名字，你曾经常提及......邪术。
 
-tm.text.CREATION.3=Time passed, as time is prone to do, and the Eldritch developed magic. They practiced it, refined it, and it became quite similar to the thaumaturgy you practice - except for one difference.<BR>Warp was in every word they wrote. Twisting, fluxing, and tainting. Their magic couldn't do anything without a far greater than equal reaction.<BR>So, they decided they would break the rules. They decided to create a new universe. A universe without their limits, without the warp their universe underwent.<BR>They began to manipulate primal energy, clashing it into the forms that would spark and create.
+tm.text.CREATION.3=时间飞逝，邪术们开始使用魔法。他们练习它，钻研它，它开始变得与你学习的魔法相当相似……除了一点。<BR>扭曲深藏于每一个字里。扭曲，咒波和腐化。他们的魔法不得不遵守等价交换。<BR>于是，他们决定打破规则。他们决定创造一个新的宇宙。一个宇宙没有限制，没有他们宇宙所经历的扭曲。<BR>他们开始操纵那原始能量，使其在相互冲击中开始创世纪。
 
-tm.text.CREATION.4=However, right before this universe was created, they split the forces in two.<BR>All the power of creation was shoved into one half, and the matter created into another.<BR>They ended up with two worlds... A neverending voidscape, and the Overworld.<BR>Nonetheless, the veil between these two worlds was weak, and the power contained within the voidscape was too dangerous to let the untrained hold.<BR>So, the Eldritch constructed a trap. They laid out mazes upon mazes, each centered around a piece of creation... The Primordial Pearls.
+tm.text.CREATION.4=然而，在创造宇宙之前，他们将这能量一分为二。<BR>将所有的创世之能放进其中一半，剩余物质放进另一半。<BR>最终，他们获得了两个世界，一个是无边无际的虚空世界，另一个就是主世界。<BR>尽管如此，这两个世界之间的屏障太过脆弱，让毫无经验的人获得虚空世界内的能量更是极其危险。<BR>因此，邪术们创造了陷阱。迷宫层层相套，每个围绕着一些创世之能……原始珍珠。
 
-tm.text.CREATION.5=To protect the Pearls, they created the guardians, this ensured the weak could not obtain this power, as it could be devastating if a fool were to use it incorrectly.<BR>Aeons later, here you stand; one who has marched into eternity and emerged triumphant.<BR>You hold a piece of the power used to create the world... The Pearl.<BR>With this piece of creation, you have forged the final piece of the puzzle - The Shard of Creation.<BR>The limits you once were bound by have been cast aside, just as the Eldritch cast aside theirs. With this, even the gods will flee before you.
+tm.text.CREATION.5=为了保护珍珠，他们创造了监护人，这保证了弱者无法获得这种力量，因为它可能是毁灭性的，如果一个傻瓜是不正确地使用它<BR>劫后，在这里你的立场。 。一个谁已经迈入永恒，胜利出现<BR>你抱着一块用来创造世界......珍珠的力量酒店与这片创作，你结下了最后一块拼图 - 创作的碎片。<BR>你曾经是受已经唾弃的限制，就像怪异唾弃他们。有了这个，连神仙都会在你逃跑。To protect the Pearls, they created the guardians, this ensured the weak could not obtain this power, as it could be devastating if a fool were to use it incorrectly.<BR>Aeons later, here you stand; one who has marched into eternity and emerged triumphant.<BR>You hold a piece of the power used to create the world... The Pearl.<BR>With this piece of creation, you have forged the final piece of the puzzle - The Shard of Creation.<BR>The limits you once were bound by have been cast aside, just as the Eldritch cast aside theirs. With this, even the gods will flee before you.
 
 tm.text.CREATION.6=<BR><BR><IMG>taintedmagic:textures/misc/creation2.png:0:255:255:255:.5</IMG>
 
@@ -204,6 +204,6 @@ tm.text.CREATION.6=<BR><BR><IMG>taintedmagic:textures/misc/creation2.png:0:255:2
 
 tm.name.AWAKENEDWARPTREE=觉醒扭曲之树
 
-tm.tag.AWAKENEDWARPTREE=雨水正在浇灌种子！
+tm.tag.AWAKENEDWARPTREE=雨水浇灌着种子！
 
 tm.text.AWAKENEDWARPTREE.1=虚空锭是极其有用的，但它需要用坩埚制造，其过程都异常繁琐。你需要更好的虚空种子获取方式。<BR>在给扭曲树苗添加了虚空种子之后，这树似乎......准备为虚空种子播种。<BR>这种树与扭曲之树基本相同，除了一个东西——这种书长大之后，树中心将会生成大量粘稠扭曲之木。挖掉这种木头，就爱拿根会掉落几个虚空种子（4-10个）。树通常会掉落扭曲树苗。<BR>§o再见了坩埚！

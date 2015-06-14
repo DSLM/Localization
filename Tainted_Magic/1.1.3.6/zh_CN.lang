@@ -93,44 +93,44 @@ tm.text.ROD_WARP.2=§o你的法杖一直对着你窃窃私语。当你心中的�
 tm.name.ROD_WARP_staff=扭曲之木杖芯
 tm.tag.ROD_WARP_staff=创造之盈余
 tm.text.ROD_WARP_staff.1=在见识到了扭曲之木杖柄的神奇之处之后，你开始尝试用同种材料制做一根杖芯。<BR>与绝大多数杖芯不同，一个原始魔力并不足以制作这种杖芯，它需要的是原始珍珠。<BR>扭曲之木杖芯同样拥有自动恢复魔力的能力，并且在此基础上拥有着惊人的魔力储量——每种魔力500vis。<BR>原始珍珠不会在合成中被消耗。(Continued)
-tm.text.ROD_WARP_staff.2=§o在将两种力量注入一体之后，这力量无可匹敌……<BR>The rush of vis surging through its core...<BR>2 metres of pure power, pure perfection...<BR>The insanity not even affecting you anymore...<BR>This power...<BR>It's unbelievable...
+tm.text.ROD_WARP_staff.2=§o在将两种力量注入一体之后，这力量无可匹敌……<BR>海量的魔力在其中流淌……<BR>两种纯粹的力量，最纯粹无暇的……<BR>那心中的癫狂甚至再也无法影响你……<BR>这能量……<BR>难以置信……
 
 #EVILSHARDS
 
-tm.name.EVILSHARDS=Evil Shards
-tm.tag.EVILSHARDS=Congealed evil
-tm.text.EVILSHARDS.1=By applying certain aspects to a balanced shard, it caused some rather interesting effects... The results are warped shards, and flux shards. You're sure you will be able to use them for lots of things.<LINE>To make these shards, throw a balanced shard into a crucbible with specific aspects.<BR>To make a Warped Shard, throw a Balanced Shard into a heated crucible with Alienis.<BR>To make a Flux Shard, throw a Balanced Shard into a heated crucible with Vitium.
+tm.name.EVILSHARDS=恶之碎片
+tm.tag.EVILSHARDS=凝固的恶
+tm.text.EVILSHARDS.1=在对平衡碎片进行某方面的应用时，其产生了一些有趣的效果……其结果便是扭曲碎片和咒波碎片。你确信你能在很多时候用到它们。<LINE>将平衡碎片扔进拥有某些特殊要素的坩埚即可制作这些碎片。<BR>将平衡碎片扔进拥有异域要素(alienis)的坩埚中可获得扭曲碎片。<BR>将平衡碎片扔进拥有污染要素(vitium)的坩埚中可获得咒波碎片。
 
 #CRIMSONROBES
 
-tm.name.CRIMSONROBES=Crimson Seamstry
-tm.tag.CRIMSONROBES=Knockoff cultist
-tm.text.CRIMSONROBES.1=After fighting the Crimson Cult countless times, you have noticed one thing; all of their clothing is made from a deep red fabric. You have obtained some of this rich cloth after killing the cultists, and you have realised it is quite simple to make, and it should be quite easy to replicate their robes.<LINE>Using Crimson Fabric (see right) you are able to make all of the robe pieces. Their recipes are written on the following pages.
+tm.name.CRIMSONROBES=血腥工艺
+tm.tag.CRIMSONROBES=山寨邪徒
+tm.text.CRIMSONROBES.1=经过与血腥邪徒的多次战斗你注意到了一件事情：他们的衣服都是深红色的。在干掉一些血腥邪徒之后，你已经获得了一些这种珍贵的布料，然而你意识到这种布料的制作方法相当简单，并且制作一件与血腥邪徒所穿一模一样的长袍也并非什么难事。<LINE>使用血腥布匹(详见右图)作为原材料，你可以制作全套长袍，它们的合成表在后面几页。
 
 #VOIDFORTRESS
 
-tm.name.VOIDFORTRESS=Void Fortress Armor
-tm.tag.VOIDFORTRESS=Nothing is getting out
-tm.text.VOIDFORTRESS.1=This is a simple improvement on the concepts layed down by the discovery of fortress armor. By using Void Metal instead of Thaumium you are not only increasing the effectiveness of the armor, but also it's durability.<BR>Of course some people claim that wearing such a large amount of Void metal is probably not good, but there will always be doubters and they should be ignored. You find the dull ache that settles into your bones as you wear it comforting.<BR>Like normal fortress armor this armor can be enhanced by various different faceplates and modifications. 
+tm.name.VOIDFORTRESS=虚空要塞套装
+tm.tag.VOIDFORTRESS=一切尽在掌控之中。
+tm.text.VOIDFORTRESS.1=以神秘要塞套装的发现作为基础,你对之做出了一点小小的改进。通过使用虚空锭而非神秘锭作为原材料，你不仅提升了装甲的防护能力，而且也增强了它的耐用性。<BR>当然，有的人认为将大量的虚空金属装备在身上或许会有什么不好的影响，但是世界上总有这种唧唧歪歪的阴谋主义者，无需在意。你发觉当你穿上这套衣服时，你全身都隐隐作痛，甚至深入骨髓。<BR>与神秘要塞套装相同，这种装甲也可以被各种手段增强。
 
 #WARPEDGOGGLES
 
-tm.name.WARPEDGOGGLES=Warped Goggles Of Revealing
-tm.tag.WARPEDGOGGLES=May cause cataracts...
-tm.text.WARPEDGOGGLES.1=By infusing your Goggles of Revealing with Shadowmetal you have solved an everlasting problem...<BR>A thaumaturge like yourself must choose between function and protection. By using Shadowmetal to strengthen your goggles, you have gained a few extra armor points - but at a cost...<BR>It seems that one of the lenses became clouded with warp - causing you to have strange visions at times. But no problem, it could be worse, right?
+tm.name.WARPEDGOGGLES=扭曲揭示之护目镜
+tm.tag.WARPEDGOGGLES=可能会导致白内障……
+tm.text.WARPEDGOGGLES.1=将暗影锭注入揭示之护目镜之后，你终于解决了长久以来一直困扰你的问题……<BR>你这样的神秘使往往必须在装甲的特殊功能和保护能力之间做一个艰难的决定。通过用暗影锭来加强你的护目镜，你已经获得了额外的防护能力。但是，这种提升并非毫无代价的……<BR>一个镜片看起来被扭曲和咒波变得模糊，并导致你有时候会出现一些奇怪的幻象。不过没关系，这玩意还能变得更糟，对吧？
 
 #TAINTFOCUS
 
-tm.name.TAINTFOCUS=Wand Focus: Tainted Storm
-tm.tag.TAINTFOCUS=Warning: may leave a sticky residue
-tm.text.TAINTFOCUS.1=After having seen the destructive power of flux you thought it would be interesting to make a wand focus that attacks using it. The result is the Tainted Storm focus.<BR>This focus will blast an AoE attack of Tainted Bubbles with a range of 10 metres, inflicting a poison effect on contact, and causing a fair amount of damage - leaving your enemies corpses infected to the bone with flux.<BR>The only downside of this focus is that when using it there is a chance you will get affected with Flux Flu, but thats only the consequence of handling such a large amount of flux.
+tm.name.TAINTFOCUS=法杖核心:腐化风暴
+tm.tag.TAINTFOCUS=警告：可能导致粘液残留。
+tm.text.TAINTFOCUS.1=在看见咒波粘浆的威力之后，你觉得制作一种以其作为攻击方式的法杖核心会很有意思。法杖核心:腐化风暴就是你的研究成果。<BR>这种核心将在前方区域射出腐化气泡，射程为10格，接触者不仅需要面对腐毒的侵蚀，更需要应对其造成的惊人伤害，甚至咒波粘浆亦会浸入被杀死者的骨髓。<BR>这种法杖核心的缺点是你会有几率感染上咒流，不过处理因此造成的大量咒波粘浆也是仅有的负面效果了。
 
 #ELDRITCHFOCUS
 
-tm.name.ELDRITCHFOCUS=Wand Focus: Eldritch
-tm.tag.ELDRITCHFOCUS=Engulfed in the shadows
-tm.text.ELDRITCHFOCUS.1=After having payed a visit to the voidscape known as the Outerlands, the race known as the Eldritch have sparked your interest... You are very intrigued by the Eldritch Guardians, and especially the orbs of dark matter that they hurl at you.<BR>After having made contact with this dark matter, you have thought it might be worth it to take a shot at the Eldritch's magic.<BR>By using Shadowmetal and the eyes of the Eldritch Guardians, you have managed to summon these orbs of dark matter opon command.<BR>(Continued)
-tm.text.ELDRITCHFOCUS.2=Because of the use of the Shard of Creation, the orbs have turned out to be a bit stronger than the ones the guardians fire at you, dealing 10 hearts of damage, and inflicting a weakness potion upon contact.<BR>However, there are some small downsides to using this focus..<BR>Every time you cast the focus, and summon an orb, there is a chance the orb will cause you to gain a small amount of sticky warp... But a little warp never hurt anyone right?<BR>§oAs the Eldritch roam their twisted world, you are making progress. One day, you will annihilate the race with their own magic!
+tm.name.ELDRITCHFOCUS=法杖核心:邪术
+tm.tag.ELDRITCHFOCUS=暗影之噬。
+tm.text.ELDRITCHFOCUS.1=在拜访过位于虚空间隙的外域之后，你对这些以邪术为名的种族产生了兴趣。你对那里的邪术守卫非常感兴趣，特别是它们投向你的邪术球。<BR>在接触过这种邪术球之后，你认为获取这种投掷类的邪术魔法是很有必要的。<BR>通过使用暗影锭，你已经可以成功的使用邪术球了。<BR>(Continued)
+tm.text.ELDRITCHFOCUS.2=因为使用了Shard of Creation，这些邪术球已被验证是强于邪术守卫投向你的那些的，能造成10颗心的伤害，并给予被攻击者虚弱buff。<BR>然而，这种核心也有一点小缺点……<BR>Every time you cast the focus, and summon an orb, there is a chance the orb will cause you to gain a small amount of sticky warp... But a little warp never hurt anyone right?<BR>§oAs the Eldritch roam their twisted world, you are making progress. One day, you will annihilate the race with their own magic!
 
 #KNIGHTROBES
 

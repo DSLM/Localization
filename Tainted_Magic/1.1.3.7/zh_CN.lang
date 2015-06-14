@@ -182,12 +182,12 @@ tm.text.VOIDWALKERBOOTS.1=你一直在艰难地寻找，寻找着能完善你的
 
 tm.name.CREATIONSHARD=创世碎片
 tm.tag.CREATIONSHARD=力量使人堕落
-tm.text.CREATIONSHARD.1=You have finally found it... Something to challenge the creation magic of the Eldritch.<BR>The Shard of Creation. This shard of condensed power is the ultimate fuel source for your magic. The creation and the destruction, all combined into one shard.<BR>This shard might be the opening to the discovery of how it all came to be, this is what you were always looking for.<BR>§oThis shard - as you lay your hands on it, a sensation of pure clarity fills your twisted mind for the first time in centuries.
+tm.text.CREATIONSHARD.1=你终于找到了它......挑战创世神迹的邪术产物。<BR>创世碎片，这种有着巨大能量的碎片将是你终极的魔力来源。创造与毁灭，一切都蕴含于其中。<BR>这碎片或许揭示了万物之始，那你一直在追求的终极答案。<BR>§o 这种碎片——当它躺在你的手上时，清晰之感几个世纪以来首次充斥了你那扭曲的心灵。
 
 #CREATION
 
 tm.name.CREATION=创世
-tm.tag.CREATION=It's suddenly clear...
+tm.tag.CREATION=一切很快明了……
 tm.text.CREATION.1=The moment you touched this new shard, a substance forged of power you barely understand, you felt something. You felt as if the entire universe had shifted.<BR>Your body went stiff, and for the first time since you opened the Thaumonomicon, the voices... They §lStopped.§r<BR>You saw through what the voices have always kept hidden. You saw through the lies. Through the insanity. Through the veil between worlds. You saw... §lCreation.§r<BR>Aeons ago, when the world you know was yet to exist, the formation of another universe began.
 
 tm.text.CREATION.2=The primal energies, in the form of vis, flowing from beyond reality clashed, combined, and, given time, created.<BR>A blank universe, exploding from nothing, into existence.<BR>The energies which created this world, however, did not leave. They stayed, they twisted, and became a part of this new place, just as water or air are in your world.<BR>If enough time is given to any universe, it will eventually develop life, and this universe was no exception. A race of beings, warped by power and twisted by magic. Every reference to them you've ever read always names them... The Eldritch.
@@ -202,8 +202,8 @@ tm.text.CREATION.6=<BR><BR><IMG>taintedmagic:textures/misc/creation2.png:0:255:2
 
 #AWAKENEDWARPTREE
 
-tm.name.AWAKENEDWARPTREE=Awakened Warpwood Tree
+tm.name.AWAKENEDWARPTREE=觉醒扭曲之树
 
-tm.tag.AWAKENEDWARPTREE=It's raining seeds!
+tm.tag.AWAKENEDWARPTREE=雨水正在浇灌种子！
 
-tm.text.AWAKENEDWARPTREE.1=Void Metal is extremely useful, but it is created in the crucible, so it has tedious written all over it. You need a better source of Void Seeds.<BR>By adding a few Void Seeds to the Warpwood Sapling, the tree seems to... propogate them.<BR>The tree is essentially the same, except for one thing - when the tree grows, a Log of Dense Warpwood will form at the heart of the tree. Upon breaking this log, a few void seeds will drop (anywhere between 4 and 10). The tree will drop regular warpwood saplings.<BR>§oGoodbye crucible!
+tm.text.AWAKENEDWARPTREE.1=虚空锭是极其有用的，但它需要用坩埚制造，其过程都异常繁琐。你需要更好的虚空种子获取方式。<BR>在给扭曲树苗添加了虚空种子之后，这树似乎......准备为虚空种子播种。<BR>这种树与扭曲之树基本相同，除了一个东西——这种书长大之后，树中心将会生成大量粘稠扭曲之木。挖掉这种木头，就爱拿根会掉落几个虚空种子（4-10个）。树通常会掉落扭曲树苗。<BR>§o再见了坩埚！

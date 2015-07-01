@@ -15,10 +15,10 @@ key.armor=切换护甲粒子效果
 
 text.voidtouched=虚空之触
 
-text.boots.1=混沌伊始 暗无天日
-text.boots.2=虚空踏行 界无清明
+text.boots.1=混沌初开 万华皆寂
+text.boots.2=身游太虚 诸天匿行
 
-text.shard=它传来了远古知识……
+text.shard=它带给了你上古知识……
 
 text.mode=模式
 text.efficiency=效率
@@ -26,7 +26,7 @@ text.efficiency=效率
 text.disassembler.normal=正常
 text.disassembler.fast=快速
 text.disassembler.slow=慢速
-text.disassembler.off=关
+text.disassembler.off=关闭
 text.modeToggle=模式切换至
 
 #=========FOCAL UPGRADES==============
@@ -249,7 +249,7 @@ tm.name.THAUMICDISASSEMBLER=奥术分解机
 
 tm.tag.THAUMICDISASSEMBLER=版权归通用机器(Mekanism)所有
 
-tm.text.THAUMICDISASSEMBLER.1=据说，一个名为Aidan Brady的人创造了一件完美的工具——原子分解机。<BR>然而，你是一个神秘使，使用魔法而非科技，但你仍然想获得这个工具。<BR>根据原子分解机遵行的世界基本法则，你能制作一种新工具——奥术分解机。<BR>(Continued)
+tm.text.THAUMICDISASSEMBLER.1=据说，一个名为Aidan_Brady的人创造了一件完美的工具——原子分解机。<BR>然而，你是一个神秘使，使用魔法而非科技，但你仍然想获得这个工具。<BR>根据原子分解机遵行的世界基本法则，你能制作一种新工具——奥术分解机。<BR>(Continued)
 tm.text.THAUMICDISASSEMBLER.2=奥术分解机与原子分解机异常相似——包括外观。不过与此同时，它也有一些变化之处。<BR>奥术分解机不再具有矿脉采集功能，也没有锄头的功能。<BR>但是，因为奥术分解机由虚空金属供能，它永不磨损，并会快速自我修复。由于使用了较多的虚空金属，奥术分解机的自我修复速度高于普通的虚空工具和装甲。<BR>综上所述，奥术分解机无需像原子分解机一样充能。<BR>Shift+右键点击可以切换模式。
 
 #FOCUSTIME
@@ -266,4 +266,4 @@ tm.name.FOCUSWEATHER=法杖核心:天气
 
 tm.tag.FOCUSWEATHER=晴日朗朗……
 
-tm.text.FOCUSWEATHER.1=利用创世之法的基本原理，制造掌控天气的核心并非难事。<BR>在暴雨中，它可以驱散乌云；在晴日里，它能招来风雨。这个核心将停止/开启雨水。<BR>这种核心使用了创世魔法，这意味着它有冷却时间——长达30秒。<BR>这种核心无法在核心镶饰台升级。
+tm.text.FOCUSWEATHER.1=利用创世之法的基本原理，制造掌控天气的核心并非难事。<BR>在暴雨中，它可以驱散乌云；在晴日里，它能招来风雷。这个核心将停止/开启雨水。<BR>这种核心使用了创世魔法，这意味着它有冷却时间——长达30秒。<BR>这种核心无法在核心镶饰台升级。

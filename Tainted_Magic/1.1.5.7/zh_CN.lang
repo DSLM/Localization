@@ -30,7 +30,7 @@ text.disassembler.off=关闭
 text.modeToggle=模式切换至
 
 text.sash.toggle=§3[Tainted Magic] §7速度提升
-text.sash.toggle2=§7for the §9虚空旅行者符文护盾腰带
+text.sash.toggle2=§7对于§9虚空旅行者符文护盾腰带
 text.sash.on=启用
 text.sash.off=禁用
 text.sash.mode=速度提升：
@@ -248,7 +248,7 @@ tm.name.AWAKENEDWARPTREE=觉醒扭曲之树
 
 tm.tag.AWAKENEDWARPTREE=雨水浇灌着种子！
 
-tm.text.AWAKENEDWARPTREE.1=虚空锭是极其有用的，但它需要用坩埚制造，其过程都异常繁琐。你需要更好的虚空种子获取方式。<BR>在给扭曲树苗添加了虚空种子之后，这树似乎......准备为虚空种子播种。<BR>这种树与扭曲之树基本相同，除了一个东西——这种树长大之后，树中心将会生成一块粘稠扭曲之木。挖掉这种木头，就会掉落几个虚空种子（4-10个）。树叶通常会掉落扭曲树苗。<BR>§o再见了坩埚！
+tm.text.AWAKENEDWARPTREE.1=虚空锭是极其有用的，但它需要用坩埚制造，其过程都异常繁琐。你需要更好的虚空种子获取方式。<BR>在给扭曲树苗添加了虚空种子之后，这树似乎......准备为虚空种子播种。<BR>这种树与扭曲之树基本相同，除了一个东西——这种树长大之后，树中心将会生成一块粘稠扭曲之木。挖掉这种木头，就会掉落几个虚空种子(4-10个)。树叶通常会掉落扭曲树苗。<BR>§o再见了坩埚！
 
 #THAUMICDISASSEMBLER
 
@@ -307,9 +307,9 @@ tm.text.TRANSSHADOW.1=曾几何时，你正在制作一些神秘物品。在将�
 
 tm.name.MAGICCROISSANT=奥术羊角面包
 
-tm.tag.MAGICCROISSANT=Mangez moi, s'il te plait.（法语：吃我，请。）
+tm.tag.MAGICCROISSANT=Mangez moi, s'il te plait.(法语：吃我，请。)
 
-tm.text.MAGICCROISSANT.1=你那荒谬的脑子里蹦出了一个想法：将一些碎片和魔力加入面包中或许会发生一些好玩的事情。<BR>尽管这是十分出格的，但结果却是……有趣的。<BR>奥术羊角面包将补充2.5格饥饿度，并输出一个短脉冲的红石信号。<BR>C'est génial!（法语：这是伟大的！）
+tm.text.MAGICCROISSANT.1=你那荒谬的脑子里蹦出了一个想法：将一些碎片和魔力加入面包中或许会发生一些好玩的事情。<BR>尽管这是十分出格的，但结果却是……有趣的。<BR>奥术羊角面包将补充2.5格饥饿度，并输出一个短脉冲的红石信号。<BR>C'est génial!(法语：这是伟大的！)
 
 #CREATIONCROISSANT
 
@@ -317,4 +317,4 @@ tm.name.CREATIONCROISSANT=创世羊角面包
 tm.tag.CREATIONCROISSANT=扭曲着，却涂满了黄油
 tm.text.CREATIONCROISSANT.1=看起来，魔法使并非吃奥术羊角面包唯一的食用者。相传在远古时代，大约十亿年前……邪术使的领袖们也会食用奥术羊角面包。不过那些些并非普通的奥术羊角面包……<BR>邪术使中最杰出的厨师以原始珍珠作为主材来制作这些羊角面包。<BR>这些邪术使将掌握的烹饪技术与珍珠的力量结合起来以减缓食物的消耗，如此一来吃掉单个糕点将可以持续数周，甚至数月不用进食。(Continued)
 
-tm.text.CREATIONCROISSANT.2=但是你却提升了这种食物的档次。你不再使用原始珍珠作为主材，而是使用创世碎片。结果令人惊叹。<BR>食用创世羊角面包，将造成巨大的影响，任何丢失的生命值将会被恢复。<BR>更何况食用后将获得极高的饱和度。<BR>§虽然无关紧要，但这仍旧可能会是十分有用的……
+tm.text.CREATIONCROISSANT.2=但是你却提升了这种食物的档次。你不再使用原始珍珠作为主材，而是使用创世碎片。结果令人惊叹。<BR>食用创世羊角面包，将造成巨大的影响，任何丢失的生命值将会被恢复。<BR>更何况食用后将获得极高的饱和度。<BR>虽然无关紧要，但这仍旧可能会是十分有用的……

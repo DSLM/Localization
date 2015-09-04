@@ -1,33 +1,33 @@
 #==================MISC===============
 
-itemGroup.alfheimwings=§fThe Wings of Alfheim
+itemGroup.alfheimwings=§f亚尔夫海姆之翼
 
-key.boost=Switch Flight Type
-key.categories.alfheimwings=The Wings of Alfheim
+key.boost=开关飞行类型
+key.categories.alfheimwings=亚尔夫海姆之翼
 
 #==================ITEM===============
 
-item.ItemWings.name=Alfheim Wings
-item.ItemFairyIngot.name=Mediocris Ingot
-item.ItemFairyDust.name=Fairy Dust
-item.ItemFairyCluster.name=Mediocris Cluster
-item.ItemFlightCore.name=Flight Core
+item.ItemWings.name=亚尔夫海姆之翼
+item.ItemFairyIngot.name=凡庸锭
+item.ItemFairyDust.name=仙灵粉
+item.ItemFairyCluster.name=凡庸集簇
+item.ItemFlightCore.name=飞行核心
 
-item.ItemFairySword.name=Mediocris Sword
-item.ItemFairyPickaxe.name=Mediocris Pickaxe
-item.ItemFairyAxe.name=Mediocris Axe
-item.ItemFairySpade.name=Mediocris Spade
-item.ItemFairyHoe.name=Mediocris Hoe
+item.ItemFairySword.name=凡庸剑
+item.ItemFairyPickaxe.name=凡庸镐
+item.ItemFairyAxe.name=凡庸斧
+item.ItemFairySpade.name=凡庸铲
+item.ItemFairyHoe.name=凡庸锄
 
 #==================BLOCK==============
 
-tile.BlockFairyOre.name=Fairy Ore
-tile.BlockAlfheimTable.name=Alfhomancy Table
-tile.BlockFairy.name=Block of Mediocris
+tile.BlockFairyOre.name=仙灵矿石
+tile.BlockAlfheimTable.name=精灵工作台
+tile.BlockFairy.name=凡庸块
 
 #==================WINGS==============
 
-text.wings=Wing Type:
+text.wings=翅膀类型：
 text.wings.type.1=Eclypse (1)
 text.wings.type.2=Celinette (2)
 text.wings.type.3=Hesperia (3)
@@ -37,10 +37,10 @@ text.wings.type.6=Infernata (6)
 text.wings.type.7=Sanctus (7)
 text.wings.type.8=Acnologia (8)
 text.wings.type.9=Alanyr (9)
-text.wings.notactive=Your wings are not active...
-text.wings.notactive2=(Right Click on an Alfhomancy Table to activate)
-text.wings.type=(Right Click on an Alfhomancy table to change)
-text.wings.chatmessage=Wing type set to:
-text.wings.chatmessage.flight=Flight type set to:
-text.wings.chatmessage.normalflight=Normal Flight
-text.wings.chatmessage.freeflight=Free Flight
+text.wings.notactive=你的翅膀未被激活……
+text.wings.notactive2=（右击一个精灵工作台以激活翅膀）
+text.wings.type=（右击一个精灵工作台以改变类型）
+text.wings.chatmessage=翅膀类型设置为：
+text.wings.chatmessage.flight=飞行类型设置为：
+text.wings.chatmessage.normalflight=正常飞行
+text.wings.chatmessage.freeflight=自由飞行
